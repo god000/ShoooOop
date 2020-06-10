@@ -1,0 +1,4 @@
+C:\Users\worka\Desktop\Shop\Storage\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\worka\Desktop\Shop\Storage\obj\Debug\netcoreapp3.1\Storage.csprojAssemblyReference.cache
+C:\Users\worka\Desktop\Shop\Storage\obj\Debug\netcoreapp3.1\Storage.AssemblyInfoInputs.cache
+C:\Users\worka\Desktop\Shop\Storage\obj\Debug\netcoreapp3.1\Storage.AssemblyInfo.cs
