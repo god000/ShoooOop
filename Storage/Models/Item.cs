@@ -10,5 +10,6 @@
         public int dateProduction { get ; set ; }
         public int ShelfLife { get; set ; }
         public string Type { get ; set ; }
+        public int IdBranch { get ; set; }
     }
 }

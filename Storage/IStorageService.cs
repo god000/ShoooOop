@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Data.Entity;
+﻿using System.Collections.Generic;
 using Storage.Models;
-using Storage;
 
-namespace ClinicStorage
+namespace Storage
 {
     public interface IStorageService
     {
@@ -14,7 +10,7 @@ namespace ClinicStorage
         void DeleteItem(IItem i);
         void SetInfo(object obj);
         bool CheckCanAddItem(IItem i, string category);
-        IBranch GetBranches(int id);
+        List<IItem> GetItemFromBranche(int id);
         IItem GetItem(int id);
 
     }
